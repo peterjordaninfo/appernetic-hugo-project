@@ -35,7 +35,8 @@ The submarine cables that transmit [99% of international data](http://www.nec.co
 
 Of course data design and visualisation has a long heritage too. Florence Nightingale was methodical in collecting and interpreting data, presenting striking diagrams including the first pie chart to make her case for cleaner military hospitals.
 
-![Diagram of the causes of mortality in the army in the east](http://res.cloudinary.com/df1mif8sk/image/upload/v1483137741/hugo/army-in-the-east-6201-620x412_higxuu.jpg) _Notes on matters affecting health, efficiency, and hospital administration of the British Army. Reproduced courtesy of the Florence Nightingale Museum Trust, London._
+![Diagram of the causes of mortality in the army in the east](http://res.cloudinary.com/df1mif8sk/image/upload/v1483137741/hugo/army-in-the-east-6201-620x412_higxuu.jpg)</br>
+_Notes on matters affecting health, efficiency, and hospital administration of the British Army. Reproduced courtesy of the Florence Nightingale Museum Trust, London._
 
 On view was _Notes on Matters Affecting the Health, Efficiency and Hospital Administration of British Army 1858_, with the chart demonstrating the ratio of British soldiers who died during the Crimean War of sickness, rather than of wounds or other causes.
 
@@ -47,7 +48,8 @@ We see adverts on most of the content we view online, but we don't have any meth
 
 ### Data in action… or not
 
-![The situation room at Big Bang Data exhibition 03 Dec 2015 — 20 Mar 2016 © Somerset House](https://res.cloudinary.com/df1mif8sk/image/upload/v1483371781/hugo/situation-room-data-big-bang-620-620x404_fbpvmr.jpg) _The situation room at Big Bang Data exhibition 03 Dec 2015 — 20 Mar 2016 © Somerset House._
+![The situation room at Big Bang Data exhibition 03 Dec 2015 — 20 Mar 2016 © Somerset House](https://res.cloudinary.com/df1mif8sk/image/upload/v1483371781/hugo/situation-room-data-big-bang-620-620x404_fbpvmr.jpg)</br>
+ _The situation room at Big Bang Data exhibition 03 Dec 2015 — 20 Mar 2016 © Somerset House._
 
 In the exhibition's "Situation Room", you have the opportunity to explore the [Future Cities Catapult](http://futurecities.catapult.org.uk/) tool. You stand at a control panel and answer questions about a range of London's social, economic and environmental issues, and the tool then uses s open data to predict how your decisions will affect the city and its future population in 2036.
 

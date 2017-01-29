@@ -1,7 +1,7 @@
 +++
 date = "2015-09-11"
 title = "Jared Spool asked is 'Design Metrically Opposed?"
-draft = true
+draft = false
 categories = ["analysis"]
 description = ""
 featuredpath = "date"
@@ -13,7 +13,7 @@ type = "post"
 
 The team at the [Government Digital Service](https://gds.blog.gov.uk/) had a visit from Jared Spool yesterday, where he posed the question is Design Metrically Opposed.
 
-![Jared Spool at GDS](https://res.cloudinary.com/df1mif8sk/image/upload/v1483364584/hugo/spool_rexdli.jpg)
+![Jared Spool at GDS](https://res.cloudinary.com/df1mif8sk/image/upload/v1483364584/hugo/spool_rexdli.jpg)<br>
 _Jared Spool speaking at Government Digital Service_
 
 I enjoyed a very thought-provoking talk and fascinating post-talk chat. Though as an analyst, I felt there were a few too many <del>cheap</del> amusing anti Google Analytics jibes. Don't we spend our working lives getting colleagues to think about context, to identify *valuable* things to measure and develop hypotheses?

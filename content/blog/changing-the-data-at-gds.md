@@ -1,7 +1,7 @@
 +++
 date = "2015-12-14"
 title = "Changing the ‘Data at GDS’ blog"
-draft = true
+draft = false
 categories = ["data", "analysis"]
 description = ""
 featuredpath = "date"

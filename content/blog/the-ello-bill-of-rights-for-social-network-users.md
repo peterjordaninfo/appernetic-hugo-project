@@ -1,7 +1,7 @@
 +++
 date = "2015-07-23"
 title = "The Ello Bill of Rights for Social Network Users"
-draft = true
+draft = false
 categories = ["social"]
 description = ""
 featuredpath = "date"

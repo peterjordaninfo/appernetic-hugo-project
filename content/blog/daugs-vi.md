@@ -12,7 +12,8 @@ type = "post"
 
 On 4 December, I hosted DAUGS VI, the sixth meet-up of Digital Analysts in UK Government Services. What started as a smallish event for digital analysts working on the [UK Government Digital Service's Digital Transformation](https://www.gov.uk/transformation "UK Government Digital Service's Digital Transformation") exemplar programme, has blossomed into a wider event for a wider family of analysts and other disciplines interested in using digital data.
 
-![Network visualisation of GOV.UK](https://res.cloudinary.com/df1mif8sk/image/upload/v1483137742/hugo/Network_vis_sk765c.jpg)
+![Network visualisation of GOV.UK](https://res.cloudinary.com/df1mif8sk/image/upload/v1483137742/hugo/Network_vis_sk765c.jpg)<br>
+_Network visualisation of GOV.UK_
 
 Forty to fifty people attended DAUGS VI and we had speakers from:
 

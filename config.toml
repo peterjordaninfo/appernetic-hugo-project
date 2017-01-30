@@ -4,7 +4,7 @@ title = "Peter Jordan"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+disqusShortname = "peterjordaninfo"
 googleAnalytics = "UA-58438469-1"
 
 [params]

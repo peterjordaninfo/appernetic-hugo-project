@@ -1,4 +1,4 @@
-baseurl = "https://peterjordaninfo.github.io"
+baseurl = "www.peterjordan.info"
 languageCode = "en-us"
 title = "Peter Jordan"
 theme = "hugo-future-imperfect"

@@ -1,4 +1,4 @@
-baseurl = "www.peterjordan.info"
+baseurl = "peterjordan.info"
 languageCode = "en-us"
 title = "Peter Jordan"
 theme = "hugo-future-imperfect"

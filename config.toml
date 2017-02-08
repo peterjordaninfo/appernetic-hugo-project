@@ -1,4 +1,4 @@
-baseurl = "peterjordan.info"
+baseurl = "http://peterjordan.info/"
 languageCode = "en-us"
 title = "Peter Jordan"
 theme = "hugo-future-imperfect"
@@ -57,7 +57,7 @@ googleAnalytics = "UA-58438469-1"
     circle    = false
     imperfect = true
     width     = ""
-    alt       = "Hugo Future Imperfect"
+    alt       = "Peter Jordan"
 
 # Adjust the amount of recent posts on the sidebar.
 # This is optional. The default value 5 will be used

@@ -20,11 +20,11 @@ The thoughtful [Dominic Hurst](https://dominichurst.com/about/) has recently pos
 ![Beta dashboard used at Liverpool John Moores University](https://res.cloudinary.com/df1mif8sk/image/upload/v1483892290/hugo/lmudashboard_qppcsf.jpg)<br>
 _Beta dashboard used at Liverpool John Moores University(LMU)_
 
-I’d add to this the challenge of getting users to engage with a dashboard or report in the first place. You might share a regular dashboard to managers or stakeholders or have a screen in a lobby or team area. But how do you encourage people to read it, discuss it and act on it, rathe than go 'dashboard blind'?
+I’d add to this the challenge of getting users to engage with a dashboard or report in the first place. You might share a regular dashboard to managers or stakeholders or have a screen in a lobby or team area. But how do you encourage people to read it, discuss it and act on it, rather than go 'dashboard blind'?
 
 Dominic, in fact, provides the answer: **Provide actionable insights**. For me, that means:
-* KPIs, _not_ metrics
-* Annotate
+ * KPIs, _not_ metrics
+ * Annotate
 
 [Avinash Kaushik defines](https://www.kaushik.net/avinash/web-analytics-101-definitions-goals-metrics-kpis-dimensions-targets/) a **metric** as a number (a count or ratio) and  **KPI** as a  a metric that helps you understand how you are doing against your objectives. So for me, the LMU dashboard is preferable to the Co-op example he cites, since the latter shows no KPIs or benchmarks.
 

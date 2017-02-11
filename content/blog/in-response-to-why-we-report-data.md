@@ -29,4 +29,4 @@ Dominic, in fact, provides the answer: **Provide actionable insights**. For me, 
 
 [Avinash Kaushik defines](https://www.kaushik.net/avinash/web-analytics-101-definitions-goals-metrics-kpis-dimensions-targets/) a **metric** as a number (a count or ratio) and  **KPI** as a  a metric that helps you understand how you are doing against your objectives. So for me, the LMU dashboard is preferable to the Co-op example he cites, since the latter shows no KPIs or benchmarks.
 
-Finally, I think we tend to forget that the choice of what and how to display data is an editorial choice and I believe we should make this explicit by annotating dashboards to explain trends, unexpected or special events etc. The effort to annotate is one of the ways analysts adds value and provides their audience with the actionable 'nugget'.
+Finally, I think we tend to forget that the choice of what and how to display data is an editorial choice and I believe we should make this explicit by **annotating** dashboards to explain trends, unexpected or special events etc. The effort to annotate is one of the ways analysts adds value and provides their audience with the actionable 'nugget'.

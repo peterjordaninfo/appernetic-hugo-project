@@ -10,11 +10,12 @@ type = "post"
 
 +++
 
-The thoughtful [Dominic Hurst](https://dominichurst.com/about/) has recently posted about [Why we report data](https://dominichurst.com/2017/01/04/why-we-report-data/) He’s provided some excellent tips to meet the challenge of presenting data or user research that is understood and actionable:
-* Widen the ownership of the dashboard
-* Try just focus on the metrics that matter
-* Strip the dashboard of analytical jargon
-* Provide actionable insights
+The thoughtful [Dominic Hurst](https://dominichurst.com/about/) has recently posted about [Why we report data](https://dominichurst.com/2017/01/04/why-we-report-data/). He’s provided some excellent tips to meet the challenge of presenting data or user research that is understood and actionable:
+
+ * Widen the ownership of the dashboard
+ * Try just focus on the metrics that matter
+ * Strip the dashboard of analytical jargon
+ * Provide actionable insights
 
 ![Beta dashboard used at Liverpool John Moores University](https://res.cloudinary.com/df1mif8sk/image/upload/v1483892290/hugo/lmudashboard_qppcsf.jpg)<br>
 _Beta dashboard used at Liverpool John Moores University(LMU)_

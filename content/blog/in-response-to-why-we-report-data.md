@@ -23,6 +23,7 @@ _Beta dashboard used at Liverpool John Moores University(LMU)_
 I’d add to this the challenge of getting users to engage with a dashboard or report in the first place. You might share a regular dashboard to managers or stakeholders or have a screen in a lobby or team area. But how do you encourage people to read it, discuss it and act on it, rather than go 'dashboard blind'?
 
 Dominic, in fact, provides the answer: **Provide actionable insights**. For me, that means:
+
  * KPIs, _not_ metrics
  * Annotate
 

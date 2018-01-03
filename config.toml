@@ -25,12 +25,12 @@ paginate = 10
 	# feel free to add a few information about you and your website.
 	name = "Peter Jordan"
 	bio = "Peter is a digital strategist with a focus on digital analytics, performance analysis and findability"
-	description = "Your description of the blog"
+	description = "Digital strategy: thoughts, stories and ideas"
 	
 	# Link your social networks (optional)
 	location = ""
 	twitter = "peterbjordan"
-	# linkedin = ""
+	linkedin = ""
 	googleplus = ""
 	facebook = ""
 	instagram = ""

@@ -1,16 +1,16 @@
-baseurl = "https://example.org/"
+baseurl = "http://peterjordan.info/"
 languageCode = "en-us"
-title = "Steam - a minimal theme for Hugo"
+title = "Peter Jordan"
 theme = "hugo-steam-theme"
-disqusShortname = "spf13"
+disqusShortname = "peterjordaninfo"
 # Enable Google Analytics be inserting your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-58438469-1"
 # Number of posts per page
 paginate = 10
 
 [params]
-	title = "Steam"
-	subtitle = "a minimal theme for ~~Ghost~~ Hugo"
+	title = "Peter Jordan"
+	subtitle = "DIGITAL STRATEGY: THOUGHTS, STORIES AND IDEAS"
 	copyright = "Released under the MIT license."
 
 	# You can choose between green, orange, red and blue.
@@ -23,14 +23,14 @@ paginate = 10
 
 	# To provide some metadata for search engines and the about section in the footer
 	# feel free to add a few information about you and your website.
-	name = "John Doe"
-	bio = "programmer - blogger - coffee aficionado"
+	name = "Peter Jordan"
+	bio = "Peter is a digital strategist with a focus on digital analytics, performance analysis and findability"
 	description = "Your description of the blog"
 	
 	# Link your social networks (optional)
 	location = ""
-	twitter = "spf13"
-	linkedin = ""
+	twitter = "peterbjordan"
+	# linkedin = ""
 	googleplus = ""
 	facebook = ""
 	instagram = ""
